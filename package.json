@@ -1,0 +1,17 @@
+{
+  "name": "hall-booking-app-task",
+  "version": "1.0.0",
+  "description": "node project for Hall booking API writing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "express-server": "node --watch express-server.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "lodash": "^4.17.21"
+  }
+}
